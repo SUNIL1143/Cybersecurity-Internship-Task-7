@@ -35,4 +35,4 @@ Even though my browser was clean, I researched the methods malicious extensions 
 * **Keystroke Logging:** Some extensions can record every key you press, capturing all sensitive data, including messages and passwords, as you type them.
 
 ## 4. Outcome
-[cite_start]Through this task, I have gained a better awareness of the security risks associated with browser extensions and learned the proper steps to audit and manage them safely[cite: 16].
+Through this task, I have gained a better awareness of the security risks associated with browser extensions and learned the proper steps to audit and manage them safely[cite: 16].
